@@ -1,0 +1,45 @@
+.one{
+    color: red;
+    background-color:black;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    width: 324px;
+    height: 200px;
+    /*
+    solid
+    dotted
+    dashed
+    double
+    none borderni chopish
+    */
+    border: 10px solid yellow;
+    border-top: 20px double red;
+    border-top-left-radius:300px;
+    /* border-bottom-right-radius: 0; */
+    /* border-bottom-left-radius:0; */
+     border-radius:30px ;
+     margin-left:70px;
+     padding-left:70px;
+     margin:50px 200px 30px;
+     box-sizing:border-box;
+     /* top right bottom left */
+
+}
+
+.my-link{
+    text-decoration: underline;
+    color:white;
+    background-color: red;
+    padding: 20px;
+}
+.salom{
+    text-align: justify;
+}
+.one:hover{
+    background-color: blue;
+}
+.my-link:hover{
+    background-color: blue;
+}

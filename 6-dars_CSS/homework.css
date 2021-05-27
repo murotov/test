@@ -1,0 +1,48 @@
+.one{
+    background-color: blue;
+}
+.two{
+    font-size: 95px;
+}
+.three{
+    font-family: 'Courier New', Courier, monospace;
+}
+.four{
+    color: white;
+    background-color: blue;
+    padding: 12px;
+}
+.five{
+    font-size: 70px;
+}
+.six{
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+.seven{
+    font-size: 70px;
+}
+.bir{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+}
+.ikki{
+    color: rgb(26, 90, 153);
+    font-size: 45px;
+}
+.uch{
+    font-size: 38px;
+}
+.turt{
+    background-color: blue;
+    color: white;
+}
+.besh{
+    color: white;
+    background-color:rgb(54, 54, 54)
+}
+a{
+    color: white;
+}
